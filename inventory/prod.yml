@@ -1,5 +1,6 @@
 ---
-  java_app:
-    hosts:
-      localhost:
-        ansible_connection: local
+java_app:
+  hosts:
+    localhost:
+      ansible_connection: local
+```
